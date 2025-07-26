@@ -10,10 +10,11 @@
 
 I am a dedicated and ambitious third-year undergraduate specializing in Electronic and Telecommunication Engineering. My interests revolve around **IoT, wireless communication, machine learning,** and **electronic product development**. I am passionate about tackling real-world challenges and contributing to innovative technology solutions.
 
-- 🎓 **University of Moratuwa, Sri Lanka** – B.Sc. Engineering (Hons.) in Electronic and Telecommunication Engineering (GPA: 3.60/4.0)
-- 🏆 Award winner in national-level IoT and innovation competitions
-- 📲 Creator of smart apps and embedded solutions for automation, sustainability, and industry use cases
+-🔬 Engineering Student passionate about technology-driven innovation and problem-solving in electronics and telecommunication
 
+-🌐 Experienced in IoT, wireless systems, and embedded application development for real-world challenges
+
+-🤖 Builder of smart devices,advanced robotics, and networked solutions with hands-on project leadership
 ---
 
 
