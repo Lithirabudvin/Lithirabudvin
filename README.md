@@ -44,7 +44,7 @@ I am a dedicated and ambitious third-year undergraduate specializing in Electron
 
 - **Organizing Committee Member:** SLRC, University of Moratuwa
 - **Classical Music Society:** Member
-- 
+
 ---
 
 ## 📫 Get in Touch
