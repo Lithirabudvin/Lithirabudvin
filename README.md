@@ -14,7 +14,8 @@ I am a dedicated and ambitious third-year undergraduate specializing in Electron
 
 -🌐 Experienced in IoT, wireless systems, and embedded application development for real-world challenges
 
--🤖 Builder of smart devices,advanced robotics, and networked solutions with hands-on project leadership
+-🤖 Builder of smart devices, advanced robotics, and networked solutions with hands-on project leadership
+
 ---
 
 
