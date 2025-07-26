@@ -16,15 +16,6 @@ I am a dedicated and ambitious third-year undergraduate specializing in Electron
 
 ---
 
-## 🏆 Honors & Awards
-
-- **Champion – SLIOT Competition 2025:** Smart compost bin for rapid composting
-- **2nd Runner-Up – FINNC 2025:** Enhanced smart compost system
-- **Finalist – Pera Hackathon 2025:** Mobile-integrated smart compost bin
-- **Semi-Finalist – Idealize 2025:** Agriculture-focused mobile app
-- **2nd Place – Freshers’ Meet 2023, UoM:** Javelin event
-
----
 
 ## 🛠️ Top Projects
 
@@ -35,8 +26,6 @@ I am a dedicated and ambitious third-year undergraduate specializing in Electron
 - **[Analog Synthesizer](https://github.com/Lithirabudvin/Analog-Synthesizer):** Custom electronic instrument design
 - **[Network Design](https://github.com/Lithirabudvin/Network-Design):** Hierarchical, robust network with OSPF
 - **[Routing Protocol Design](https://github.com/Lithirabudvin/Routing-Protocol-Design):** Novel OMNET++-based protocol with traffic awareness
-- **[Smart Medibox](https://github.com/Lithirabudvin/SmartMediBox):** IoT medicine organizer with smart reminders
-- **[Web App Development](https://github.com/MSD-Company-C/LDMS_Frontend):** UI for University’s logistics and delivery management
 
 ---
 
