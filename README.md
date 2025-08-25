@@ -52,7 +52,7 @@ I am a dedicated and ambitious third-year undergraduate specializing in Electron
 - **Email:** lithirabudvin@gmail.com
 - **LinkedIn:** [lithirabudvin](https://www.linkedin.com/in/lithira-budvin-1a78782ab)
 - **GitHub:** [github.com/Lithirabudvin](https://github.com/Lithirabudvin)
-
+- **Contact number:** +94 77 842 1750
 ---
 
 <p align="center">
